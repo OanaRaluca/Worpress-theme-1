@@ -1,0 +1,28 @@
+/* 
+Theme Name: Oana's
+Author: Oana Raluca
+*/
+
+body { 
+	text-align: center; 
+}
+
+#content {
+	width: 75%; 
+	border: 2px #a2a2a2 solid; 
+	float: left; 
+} 
+
+#sidebar {
+	width: 23%; 
+	border: 2px #a2a2a2 solid; 
+	float: right;
+} 
+
+#delimiter {
+	clear: both;
+}
+
+#footer {
+	border: 2px #a2a2a2 solid;
+}
